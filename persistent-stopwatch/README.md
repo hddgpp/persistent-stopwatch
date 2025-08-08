@@ -30,13 +30,3 @@ Export results to a text file
 Dark/Light mode toggle
 
 Built while practicing JavaScript intervals and localStorage management. 🚀
-
-yaml
-Copy
-Edit
-
----
-
-If you want, I can also split your HTML so it links to `style.css` and `script.js` cleanly — that way you can just drop them in the folder and push to GitHub without copy-paste chaos.  
-
-You want me to prep that split version for you?
