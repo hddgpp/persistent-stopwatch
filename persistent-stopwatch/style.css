@@ -1,0 +1,73 @@
+body {
+    display: flex;
+    justify-content: center; 
+    align-items: center;
+    height: 100vh; 
+    background: linear-gradient(135deg, #1e3c72, #2a5298);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    color: #f0f0f0;
+    user-select: none;
+ }
+
+ #main {
+    background-color: rgba(0,0,0,0.5);
+    padding: 40px 60px;
+    border-radius: 15px;
+    box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+    text-align: center;
+    min-width: 320px;
+ }
+
+ #time {
+    margin-bottom: 40px;
+ }
+
+ .p {
+    font-size: 3rem;
+    font-weight: 700;
+    font-family: 'Courier New', Courier, monospace;
+    letter-spacing: 0.15em;
+    margin: 0;
+    user-select: text;
+ }
+
+ .btns {
+    border: none;
+    border-radius: 8px;
+    padding: 14px 28px;
+    font-size: 1.25rem;
+    font-weight: 700;
+    cursor: pointer;
+    margin: 0 12px;
+    transition: background-color 0.3s ease, transform 0.2s ease;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+ }
+
+ .btn {
+    background-color: #28a745;
+    color: #f0f0f0;
+ }
+
+ .btn:hover {
+    background-color: #218838;
+    transform: scale(1.05);
+ }
+
+ .css-stop {
+    background-color: #dc3545 !important
+ }
+
+ .css-stop:hover {
+    background-color: #c82333 !important;
+ }
+
+ .clear {
+    background-color: #6c757d;
+    color: #f0f0f0;
+ }
+
+ .clear:hover {
+    background-color: #5a6268;
+    transform: scale(1.05);
+ }
