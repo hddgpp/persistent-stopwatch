@@ -9,7 +9,7 @@ Built with HTML, CSS, and JavaScript.
 - Milliseconds, seconds, minutes, and hours tracking
 - **Data saved in localStorage** so progress isn’t lost on refresh
 - Responsive and clean UI
-- Stop button turns red for visual feedback
+- The stop button turns red for visual feedback
 
 ## 🚀 How to Run
 1. Clone this repository:
@@ -29,4 +29,5 @@ Export results to a text file
 
 Dark/Light mode toggle
 
-Built while practicing JavaScript intervals and localStorage management. 🚀
+Built while practicing JavaScript intervals and localStorage management.
+
