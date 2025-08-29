@@ -1,11 +1,11 @@
 # Persistent Stopwatch ⏱️
 
-A sleek stopwatch app with **localStorage persistence**,
+A stopwatch app with **localStorage persistence**,
 meaning your timer keeps running even if you refresh or close the page.
 Built with HTML, CSS, and JavaScript.
 
 ## Features
-- Start/Stop functionality
+- Start/Stop/clear functionality
 - Milliseconds, seconds, minutes, and hours tracking
 - **Data saved in localStorage** so progress isn’t lost on refresh
 - Responsive and clean UI
@@ -32,4 +32,5 @@ Dark/Light mode toggle
 Built while practicing JavaScript intervals and localStorage management.
 
 Hope you like it :D, any feedback is welcome. 
+
 
