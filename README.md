@@ -12,8 +12,8 @@ Built with HTML, CSS, and JavaScript.
 - The stop button turns red for visual feedback
 
 ## How to Run
-1. Clone this repository:
   Open index.html in your browser.
+  Then open the live server
 
  Technologies Used
 HTML
@@ -32,5 +32,6 @@ Dark/Light mode toggle
 Built while practicing JavaScript intervals and localStorage management.
 
 Hope you like it :D, any feedback is welcome. 
+
 
 
